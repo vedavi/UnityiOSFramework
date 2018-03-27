@@ -1,0 +1,6 @@
+framework module UnityFrameworkEg {
+  umbrella header "UnityFrameworkEg.h"
+
+  export *
+  module * { export * }
+}
